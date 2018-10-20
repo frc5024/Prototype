@@ -1,0 +1,31 @@
+-- Controller Layout --
+
+Driver Controller
+Button A       : 
+Button B       : 
+Button X       : 
+Button Y       :
+Left Stick     : 
+Left Bumper    :
+Left Trigger   : 
+Right Stick    :
+Right Bumper   : 
+Right Trigger  : 
+Directional Pad:
+Start Button   :
+Back Button    :
+
+Operator Controller
+Button A + LB  : 
+Button B + RB  : 
+Button X       : 
+Button Y       :
+Left Stick     :
+Left Bumper    :
+Left Trigger   : 
+Right Stick    :
+Right Bumper   :
+Right Trigger  : 
+Directional Pad:
+Start Button   : 
+Back Button    : 
