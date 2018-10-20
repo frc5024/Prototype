@@ -5,7 +5,7 @@ Button A       :
 Button B       : 
 Button X       : 
 Button Y       :
-Left Stick     : 
+Left Stick     :  Robot movement
 Left Bumper    :
 Left Trigger   : 
 Right Stick    :
