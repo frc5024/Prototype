@@ -36,4 +36,4 @@ These are the software evrsions used when developing code for this bot
    - All functions - Namespace::LikeThis()
  - Python
    - Functions - camelCase
-   - Variables - underscore\_for\_multi\_words\_
+   - Variables - underscore\_for\_multi\_words
